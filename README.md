@@ -1,1 +1,1 @@
-我写的一些有用的python脚本
+this has some usesful python script that i code
